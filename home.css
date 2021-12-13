@@ -1,0 +1,56 @@
+
+body{
+		text-align: center;
+		background-image: url("1.gif");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-blend-mode: exclusion;
+	}
+
+	.box{
+		width: 400px;
+		height: 70vh;
+		padding: 40px;
+		text-align: center;
+		background: #727240;
+		margin-top: 50px;
+		margin-left: 720px;
+		position: absolute;
+		opacity: 80%;
+	}
+
+	.box img{
+		border-radius: 70%;
+		width: 200px;
+		height: 200px;
+	}
+
+	.box h2{
+		color: rgb(0, 0, 0);
+		text-align: center;
+		font-size:30px;
+		font-family: 	Algerian;
+	}
+
+	.box h3{
+		color: #ffffff;
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+		font-style: italic;
+	}
+
+	.button {
+	background: orange;
+  	border: none;
+  	color: #000000;
+  	padding: 8px 15px;
+  	text-align: center;
+  	text-decoration: none;
+ 	display: inline-block;
+ 	font-size: 25px;
+ 	font-family: 	Castellar;
+	font-weight: bold;
+	font-style: initial;
+ 	}
+     

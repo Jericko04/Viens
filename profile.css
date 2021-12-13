@@ -1,0 +1,75 @@
+
+h2{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body{
+	background-image: url("6.jpg");
+	background-repeat: no-repeat;
+	background-size: 125%;
+}
+a{
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+
+.text{
+		position: absolute;
+		top: 15%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+}
+
+ul{
+		padding: 0;
+		margin: -20px;
+		list-style: none;
+		display: flex;
+		background: black;
+	}
+	ul li{
+		font-size: 50px;
+		letter-spacing: 5;
+	}
+	ul li:nth-child(1){
+		color: white;
+	}
+	ul li:nth-child(2){
+		color: black;
+		background: orange;
+	}
+.box {
+	width: 500px;
+	height: 400px;
+	padding: 60px;
+	text-align: center;
+	background: #ABAB9B;
+	margin-top: 8%;
+	margin-left: 630px;
+	opacity: 80%;
+}
+
+.box p1{
+	color: red;
+	font-size: 25px;
+	font-family: Castellar;
+}
+
+.box p2{
+	color: red;
+	font-size: 25px;
+	font-family: Castellar;
+}
+
+.box p3{
+	color: red;
+	font-size: 25px;
+	font-family: Castellar;
+}
+
+.box p4{
+	color: red;
+	font-size: 25px;
+	font-family: Castellar;
+}
